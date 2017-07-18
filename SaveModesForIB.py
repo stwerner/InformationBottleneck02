@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Compute matrix for Information Bottleneck on Modes directly
+(for python 3)
 
 - add all timepoints of all worms and all movies in one matrix (dim 0)
 - also add time-shifted values as additional modes
